@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/Colins-Anime-Database-2/static/css/main.f855e6bc.css",
+    "main.js": "/Colins-Anime-Database-2/static/js/main.f4ad4f93.js",
+    "static/js/453.3953163a.chunk.js": "/Colins-Anime-Database-2/static/js/453.3953163a.chunk.js",
+    "index.html": "/Colins-Anime-Database-2/index.html",
+    "main.f855e6bc.css.map": "/Colins-Anime-Database-2/static/css/main.f855e6bc.css.map",
+    "main.f4ad4f93.js.map": "/Colins-Anime-Database-2/static/js/main.f4ad4f93.js.map",
+    "453.3953163a.chunk.js.map": "/Colins-Anime-Database-2/static/js/453.3953163a.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.f4ad4f93.js"
+  ]
+}
